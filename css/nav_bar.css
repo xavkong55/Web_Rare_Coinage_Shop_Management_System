@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Sofia');
+@import url("https://fonts.googleapis.com/css?family=Allerta+Stencil");
+body{
+  font-family: "Allerta Stencil", Sans-serif;
+}
+
+.navbar{
+  background: lightblue;
+  border: none;
+  border-radius: 0px;
+  margin-bottom: 10px; 
+  font-family: "Sofia", sans-serif;
+  text-shadow: 3px 3px 3px white;
+}
+
+.page-header{
+  margin-top: 0px;
+}
+
+.navbar-brand{
+  margin: 6px 0px;
+  font-size: 30px;
+}
+
+.nav li a{
+  color: blueviolet;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: 500;
+  padding: 10px 10px;
+  margin: 10px 5px;
+  border-radius: 9px;
+  letter-spacing: 1px;
+  transition: all 0.3s ease;
+}
+
+.nav li a:hover{
+  font-size: 25px;
+}
+
+#bs-example-navbar-collapse-1 ul li a:hover{
+  color: black;
+  background: lightgray;
+}
+
+#header{
+  color: black;
+}
+
+#userlevel{
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+  text-align: left;
+  font-size: 20px;
+  color: black;
+}
