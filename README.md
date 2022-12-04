@@ -1,6 +1,6 @@
-# Rare Coinage Shop
+# Web-based Rare Coinage Shop Management System
 
-Rare Coinage Shop Management System
+Web-based Rare Coinage Shop Management System
 
 • [Rare Coinage Shop Management System Link][Webpage Link]
 
