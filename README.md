@@ -1,4 +1,4 @@
-# rare__coinage_shop
+#Rare Coinage Shop Management System
 
 Rare Coinage Shop Management System
 
